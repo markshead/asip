@@ -9,7 +9,7 @@
  */
 
 #include "robot.h"
-#include "HUBeeWheel.h"
+#include "Motor.h"
 
 //declare two wheel objects - each encapsulates all the control functions for a wheel
 HUBeeBMDWheel wheel[NBR_WHEELS];
